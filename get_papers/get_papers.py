@@ -1,6 +1,6 @@
 import pymongo
-from paper_list_parser import get_article_list
-from paper_parser import get_article_detail
+from get_papers.paper_list_parser import get_article_list
+from get_papers.paper_parser import get_article_detail
 import time
 
 years = [2018,2017,2016]
