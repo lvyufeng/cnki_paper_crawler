@@ -29,7 +29,7 @@ for i in db.find():
 
     try:
         line = cut_words(i['a_abstract'].replace('\n摘    要：\n',''))
-        outputs.write(i['filename']+ '   ' + i['top-title'].strip() + '  ' + line + '\n')
+        outputs.write(i['filename']+ '\t' + i['top-title'].strip() + '\t' + line + '\n')
     except Exception as e:
         print(i['filename'])
         db.remove(i)
