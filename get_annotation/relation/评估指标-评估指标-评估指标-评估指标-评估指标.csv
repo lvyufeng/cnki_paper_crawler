@@ -1,0 +1,8 @@
+实验结果表明, 该算法在检测率和检测速度方面具有较大的优势, 在提高检测率的同时, 降低了误检率, 具有较好的鲁棒性\检测率\检测速度\检测率\误检率\鲁棒性
+通过实验对比图像中的信息熵、对比度和清晰度, 本文算法可以有效消除水下图像的模糊和颜色的失真, 提升图像的对比度和清晰度, 使图像细节更丰富\信息熵\对比度\清晰度\对比度\清晰度
+实验结果表明, 提出算法在查准率 (precision) 、查全率 (recall) 及F-measure等指标上优于几种经典的图像显著性检测方法\查准率 \precision\查全率\recall\F-measure
+仿真实验结果及与其他算法的对比分析表明, 该算法具有较好的去噪和抑制伪Gibbs效应的能力, 有效保存了图像的边缘细节, 同时也提高了峰值信噪比 (peak signal to noise ratio, PSNR) \去噪\抑制伪Gibbs效应\峰值信噪比\peak signal to noise ratio\PSNR
+利用USC-SIPI标准图像库中6幅图像进行仿真实验, 当嵌入容量 (EC) 为10 000 b, 平均峰值信噪比 (PSNR) 为61.89 d B时, 该算法能有效减小携密图像的失真\USC-SIPI标准图像库\嵌入容量\EC\平均峰值信噪比\PSNR
+最后通过实验仿真表明, 改进的算法能有效地减少决策属性的个数, 提高了粗糙集属性约简能力, 优化了支持向量机的参数, 算法收敛速度快, 识别准确率高\属性约简能力\支持向量机的参数\算法收敛速度\识别准确率\决策属性的个数
+所提算法与平台HM15.0相比, 编码时间平均节省51.997%, BDPSNR (Bjontegaard Delta Peak Signal-to-Noise Rate) 仅降低0.059 d B, BDBR (Bjontegaard Delta Bit Rate) 仅上升了1.018%\BDPSNR\Bjontegaard Delta Peak Signal-to-Noise Rate\编码时间\BDBR\Bjontegaard Delta Bit Rate
+实验结果表明, 所提方法较基于同构和异构的链接预测方法在准确率、召回率、F1值以及AUC上具有一定的提升, 其中AUC指标较基于异构的链接预测方法提升了4.69%\准确率\召回率\F1值\AUC\AUC指标

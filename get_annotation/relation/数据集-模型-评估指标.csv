@@ -1,0 +1,6 @@
+相比主流深度学习目标检测算法, 如YOLO、Faster RCNN, 该算法速度更快, 模型参数更少, 且保持相当的精度, 在PASCAL VOC2007权威目标检测库上的平均准确率 (m AP) 达到64.5\PASCAL VOC2007\Faster RCNN\准确率
+分别在INRIA、NICTA和Daimler行人数据集上进行实验, 结果表明, 该模型在行人检测中准确率明显优于传统CNN、HOG+SVM、Haar+SVM、PCA+SVM, 在INRIA、NICTA和Daimler行人数据集上的准确率分别达到了96.14%、96.64%和99.78%\Daimler\PCA+SVM\准确率
+实验显示, 在FDDB人脸检测基准中, MS-KCF模型的召回率为93.60%;在WIDER FACE人脸检测基准的Easy、Medium和Hard数据集中, MS-KCF模型的召回率分别为93.11%、92.18%和82.97%, 平均速度为193帧/s\Hard\MS-KCF模型\召回率
+使用UCI数据集从分类正确率、分类效率和稳定性三方面对提出的组合分类器进行验证, 实验结果表明了此分类器的有效性\UCI数据集\组合分类器\有效性
+与传统的Faster RCNN训练方法相比, 五步法加强了对难样本的学习, 提高了网络泛化能力, 减少了误判;训练出的模型在Pascal VOC 2007数据集上测试的平均正确率均值 (mean Average Precision, mAP) 提高了2.4%, 在FDDB (Face Detection Data Set and Benchmark) 相同检出率下误检率降低了3.2%, 且边框拟合度更高\Pascal VOC 2007数据集\传统的Faster RCNN\mAP
+在爬取的5个腾讯新闻评论数据集进行实验, 并与传统的文本表示模型和聚类算法进行对比分析, 结果表明, 所提算法可以有效地提高聚类质量\腾讯新闻评论数据集\聚类算法\聚类质量

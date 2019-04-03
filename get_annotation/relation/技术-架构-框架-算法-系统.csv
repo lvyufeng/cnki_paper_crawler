@@ -1,0 +1,1 @@
+使用Flume收集自动站数据, Spark Streaming对数据进行流式处理并存储到HBase数据库中, 并设计Spark框架下的自动站数据流式入库处理算法和要素极值的实时统计算法, 在Cloudera平台下实现了一个高速可靠的实时采集、处理、统计的应用系统\Spark Streaming\Cloudera平台\Spark框架\要素极值的实时统计算法\实时采集、处理、统计的应用系统

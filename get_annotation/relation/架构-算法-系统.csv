@@ -1,0 +1,1 @@
+在Hadoop中引入SDN, 利用SDN的网络控制能力, 将网络中的可用剩余带宽作为任务调度的重要参数, 并提出任务调度算法RBA (residual bandwidth based algorithm) \SDN\任务调度算法RBA (residual bandwidth based algorithm)\Hadoop

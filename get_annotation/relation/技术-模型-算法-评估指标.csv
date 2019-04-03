@@ -1,0 +1,2 @@
+为了提高网络入侵检测的准确性, 首先对粒子群优化 (Particle Swarm Optimization, PSO) 算法进行了改进, 然后利用改进的PSO算法 (IPSO算法) 对支持向量机 (Support Vector Machine, SVM) 的参数进行了优化, 并在此基础上设计了一种新型的基于IPSO-SVM算法的网络入侵检测方法\网络入侵检测\SVM\基于IPSO-SVM算法的网络入侵检测方法\准确性
+采用ZCA白化处理降低图像数据特征之间的相关性;搭建八层卷积神经网络对白化后的图像进行分类, 并在卷积层采用线性纠正单元 (Re LU) 加速训练过程, 在pooling层利用dropout技术防止算法过拟合;在网络精调阶段采用BP (Back Propagation) 算法进行优化, 提高算法的鲁棒性\dropout技术\Re LU\Back Propagation\鲁棒性
