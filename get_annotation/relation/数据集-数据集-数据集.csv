@@ -1,0 +1,5 @@
+经过由香港中文大学多媒体实验室提供的多类别大型服装数据集 (DeepFashion) 和标准数据集CIFAR-10上的实验表明, 所提出的网络模型在处理图片的速度和分类精度方面都优于VGGNet和AlexNet, 且得到了目前为止已知的在DeepFashion数据集上最好的分类准确率\标准数据集CIFAR-10\多类别大型服装数据集 \DeepFashion
+在ORL、YALE以及FERET人脸数据库上的实验结果, 表明了LRC的有效性和高效性\ORL\YALE\FERET人脸数据库
+实验结果表明, 在STANFORD DOGS、CUB-200-2011、OXFORD FLOWER-102细粒度图像数据集上, DMT分类方法的分类准确率分别达到72.23%、73.33%和96.27%, 验证了深度模型迁移方法在细粒度图像分类领域的有效性\STANFORD DOGS\CUB-200-2011\OXFORD FLOWER-102细粒度图像数据集
+在UTKinect-Action3D, MSR-Action 3D和Florence 3DActions 3个数据库上对本研究所提特征和框架进行实验, 结果表明, 所提框架在3个行为数据库上的识别正确率分别达到了97.5%, 93.1%, 91.7%, 从而证明了该行为识别框架的有效性\UTKinect-Action3D\MSR-Action 3D\Florence 3DActions 3个数据库
+大规模的稀疏图数据在现实中大量出现, 例如协同图、拉普拉斯矩阵等\稀疏图数据\协同图\拉普拉斯矩阵

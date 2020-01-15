@@ -1,0 +1,7 @@
+通过与DPClus、MCODE、IPCA、Cluster One、HC-PIN、CFinder等经典算法的对比实验表明, GAGC算法能够扩大图聚类算法的搜索空间, 提高解的多样性, 进而提高蛋白质复合物检测的性能\DPClus\MCODE\IPCA\Cluster One\HC-PIN\CFinder\ GAGC算法
+提出一种基于局部二值模式 (Local Binary Pattern, LBP) 和栈式自动编码器 (Stacked Autoencoders, SAE) 的人脸识别算法\人脸识别算法\局部二值模式\Local Binary Pattern\LBP\栈式自动编码器\Stacked Autoencoders\SAE
+采用距离正则化水平集演化方法结合k-近邻算法 (k-nearest neighbor, kNN) 或支持向量机 (support vector machine, SVM) 对超声图像进行分割, 实验结果表明, 该方法能够有效分割超声图像, 明显优于其它分割方法\距离正则化水平集演化方法\k-近邻算法\k-nearest neighbor\kNN\支持向量机\support vector machine\SVM
+在对移动端体检报告影像识别方法的研究中, 采用平均法进行彩色图像灰度化, 利用中值滤波法去噪以及最大类间方差法实现二值化, 改进了表格线检测及消除算法;字符切分法在传统字符切割前增加了字段切割, 利用投影法加边界阈值判断法实现字段切割, 对字符段再次利用投影法并结合基于识别的切分方法实现单字符分割;采用三次卷积插值算法进行归一化, 最后利用模板匹配法完成识别\体检报告影像识别方法\平均法\中值滤波法\最大类间方差法\表格线检测及消除算法\三次卷积插值算法\投影法
+通过与GA的计算结果比较指出, BPSO, HBDE和DisPSO的求解性能均优于GA, 说明基于ETM提出的DisEA在求解背包问题方面具有良好的性能\GA\BPSO\HBDE\DisPSO\GA\ETM\DisEA
+实验结果表明, MULTI方法的预测性能均显著优于经典的有监督建模方法 (EALR和Logistic) 和无监督建模方法 (LT和AGE) \ MULTI方法\EALR\Logistic\LT\AGE\有监督建模方法\无监督建模方法 
+交通状态的预测对交通管理系统具有重要意义, 从移动群智感知环境下获取的车速数据出发, 以支持向量回归算法 (SVR) 为基础, 引入周期性算子, 并采用布谷鸟算法 (CSA) 确定周期性SVR (SSVR) 中的主要参数, 提出了CSA-SSVR, 对道路未来车速进行预测, 据此判断道路的未来交通状态\支持向量回归算法 \SVR\布谷鸟算法\CSA\周期性SVR\SSVR\CSA-SSVR

@@ -1,0 +1,16 @@
+实验结果表明, 在简单背景环境下均值、中值背景建模方法更适合进行电火花检测, 而复杂背景环境下Codebook算法和高斯混合模型建模的结果远优于前两种方法, 且高斯混合模型的实验结果略优于Codebook算法\均值\中值背景建模\Codebook算法\高斯混合模型建模\高斯混合模型\Codebook算法
+针对基于视频的人脸欺骗攻击, 基于局部二值模式 (local binary patterns, LBP) 和多层离散余弦变换 (discrete cosine transform, DCT) 提出了一种新的人脸活体检测算法\局部二值模式\local binary patterns\ LBP\多层离散余弦变换\discrete cosine transform\DCT
+在提取图像最大稳定极值区域 (MSER) 的基础上, 应用剪枝算法获取孤立的连通区域, 应用笔画宽度变换 (SWT) 获得字符候选区域, 使用丢失字符恢复的算法得到候选文本行, 根据多向文本行的特征应用AdaBoost算法对文本行进行分类\最大稳定极值区域\MSER\剪枝算法\画宽度变换\SWT\AdaBoost算法
+传统的度中心性算法和PageRank算法在复杂网络的关键节点的识别中具有较好的应用, 考虑到道路交通网络中关键节点的特殊性和彼此关联性, 在度中心性算法的基础上引入贪心算法的思想, 提出了一个基于贪心策略的度中心性关键节点识别方法;同时, 在PageRank算法的基础上引入贪心算法的思想, 提出了一种基于贪心策略的PageRank关键节点识别方法, 从而使道路交通网络中关键节点识别的结果更合理, 在交通道路维护保养、规划设计, 以及犯罪分子潜逃阻断等领域都有重要的应用价值\度中心性算法\PageRank算法\贪心算法\度中心性算法\PageRank算法\贪心算法
+首先通过ORB算法快速得到特征点和特征描述, 采用K最近邻算法 (KNN) 进行粗匹配, 然后采用随机抽样一致性算法 (RANSAC) 进行精匹配, 最后使用改进的加权平均方法对图像进行融合拼接\ORB算法\K最近邻算法\KNN\随机抽样一致性算法\RANSAC\改进的加权平均方法
+理论分析和实验结果表明, 所提算法约简属性比ARD、ARCE、ARNCM分别减少了约1, 7, 0个, 所提算法的分类精度比ARD、ARCE、ARNCM分别提高了约2.5, 2.1, 0.8个百分点\ARD\ARCE\ARNCM\ARD\ARCE\ARNCM
+针对大规模的流量数据以及网络流量中存在的类别不平衡问题, 将最小最大集成策略 (min-max module, M3) 和多目标演化子集选择算法 (Pareto optimization for subset selection, POSS) 应用到网络流量分类的特征选择过程中\最小最大集成策略\多目标演化子集选择算法\min-max module\M3\Pareto optimization for subset selection\POSS
+卡方统计量 (CHI-square statistic, CHI) 和互信息 (mutual information, MI) 是特征选择模块经常使用的方法\卡方统计量\CHI-square statistic\CHI\互信息\mutual information\MI
+利用SQI-MFS实验平台的轴承数据, 与传统分类器 (SVM、k NN和ANN) 以及单个分类回归树的诊断结果相比, 随机森林算法具有比较高的诊断精度\SVM\k NN\ANN\传统分类器\单个分类回归树\随机森林算法
+本文提出基于网址结构的聚类方法 (Universal Resource Locators'Structure Clustering, USC) 以及基于词汇关键程度的关键词打分筛选方法 (Keyw ord Scoring Filter, KSF) \基于网址结构的聚类方法\Universal Resource Locators'Structure Clustering\USC\基于词汇关键程度的关键词打分筛选方法\Keyw ord Scoring Filter\KSF
+将DP-OPTICS算法和基于OPTICS聚类的差分隐私保护算法、DP-DBSCAN算法进行对比, DP-OPTICS算法在时间消耗上介于其余二者之间, 但是在取得相同参数的情况下, 聚类的稳定性在三者中最好, 因此改进后OP-OPTICS差分隐私保护算法总体上是可行的\DP-OPTICS算法\基于OPTICS聚类的差分隐私保护算法\DP-DBSCAN算法\DP-OPTICS算法\时间消耗\改进后OP-OPTICS差分隐私保护算法
+该算法融合了回溯正交匹配追踪 (BAOMP) 算法的原子选择特性和稀疏度自适应匹配追踪 (SAMP) 算法的自适应特性, 将BAOMP算法的“添加原子”规则作为SAMP算法的原子选择预处理, 通过合理的阈值添加固定的原子, 然后延续SAMP算法的步长迭代自适应特性, 寻找到信道矩阵近似系数最大, 达到了提高SAMP算法估计精度、加快算法收敛的目的\回溯正交匹配追踪\稀疏度自适应匹配追踪 \BAOMP算法\SAMP算法\SAMP算法\SAMP算法
+提出了基于细菌觅食算法 (BFO) 求解D{0-1}KP的方法, 首先描述了D{0-1}KP的两个数学模型, 然后将BFO分别与两个数学模型相结合, 即细菌个体分别采用二进制向量和四进制向量的编码方法, 并利用贪心策略优化初始解和修复非正常编码个体, 给出了求解D{0-1}KP的FirBFO和SecBFO算法\基于细菌觅食算法\BFO\BFO\贪心策略\FirBFO\SecBFO算法
+提出的算法采用机器负荷平衡机制初始化粒子种群, 在粒子的更新过程中引入了3个操作算子来更新粒子的工序排序部分和机器分配部分, 这3个算子分别为基于工序排序或机器分配的变异、与个体最优位置之间进行工序先后顺序保留的交叉 (POX) 操作、与全局最优位置进行随机点保存的交叉 (RPX) 操作\机器负荷平衡机制\基于工序排序或机器分配的变异\与个体最优位置之间进行工序先后顺序保留的交叉\POX\与全局最优位置进行随机点保存的交叉\RPX
+将贪婪蛙跳算法与蜂群算法、化学反应优化算法、遗传算法和量子演化算法进行对比, 结果显示, 贪婪蛙跳算法取得了最好的结果, 从而表明了该算法是求解01背包问题的有效算法\贪婪蛙跳算法\蜂群算法\化学反应优化算法\遗传算法\量子演化算法\婪蛙跳算法
+针对离散空间的最优化问题, 提出了二进制乌鸦算法, 并在初始解中利用Chebyshev映射产生两种混沌序列优化乌鸦的初始解, 保证个体的初始位置在整个搜索空间均匀分布;然后, 为快速有效地求解0-1背包问题, 引入贪心修复与优化策略处理非正常编码个体, 得到基于混沌理论的二进制乌鸦算法 (chaotic binary crow search algorithm, CBCSA) \二进制乌鸦算法\Chebyshev映射\贪心修复\优化策略\基于混沌理论的二进制乌鸦算法\CBCSA

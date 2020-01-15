@@ -1,0 +1,1 @@
+为克服原始扩展目标高斯混合概率假设密度滤波算法 (Extended Target Gaussian Mixture Probability Hypothesis Density, ET-GM PHD) 不能解决机动目标跟踪问题, 将交互多模型 (Interacting M ultiple M odel, IM M) 的思想引入到高斯混合概率假设密度滤波框架下, 提出一种交互多模型扩展高斯混合概率假设密度滤波算法 (IMM-ET-GMPHD) \不能解决机动目标跟踪\高斯混合概率假设密度滤波框架\交互多模型\IMM-ET-GMPHD

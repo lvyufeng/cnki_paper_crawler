@@ -1,0 +1,6 @@
+首先对明文图像进行Zigzag方式扫描置乱, 再对置乱后的图像分块;然后用Logistic混沌系统生成的伪随机序列对其进行置乱, 置乱结束后对其进行整数小波变换, 利用基于耦合映像格子CML的混沌系统生成三个伪随机序列对低频小波系数进行置乱操作, 同时对低频小波系数进行扩散, 然后进行整数小波逆变换;最后再由基于CML的混沌系统生成两个伪随机序列对图像像素值进行扩散操作, 得到最终的加密图像\Logistic混沌系统\CML的混沌系统\CML的混沌系统
+该方案在不改变现有嵌入式系统 (Embedded System, ES) 架构的前提下, 分别利用ES的唯一硬件特征值和USB Key (UK) 产生的随机数生成各自的密钥种子, 之后ES和UK利用密钥种子进行迪菲-赫尔曼协商 (Diffie-Hellman Key Exchange, DHKE) 生成SEK\嵌入式系统\Embedded System\ES
+为满足FAST建成后开展科学研究的需要, 采用基于阵列模型的科学型数据库系统作为巡天数据的存储支撑系统, 设计实现了一个能够满足对大规模巡天数据进行高效读写、复杂分析的交互式探索系统FastNavi\基于阵列模型的科学型数据库系统\巡天数据的存储支撑系统\交互式探索系统
+基于多分量地震监测系统AETA对电磁前兆异常信号的监测需求, 提出了一种电磁信号的采集系统方案\多分量地震监测系统\AETA\电磁信号的采集系统
+近年来, 智能交通系统 (Intelligent Transportation Systems, ITS) 已成为提高交通系统性能和增强出行安全性的有效方式\智能交通系统\Intelligent Transportation Systems\交通系统
+大规模网络结构化多Agent系统 (Networked Multiagent Systems, NMAS) 在分配任务时, 需要考虑Agent的能力、Agent在底层物理网络中的位置和彼此之间的实际通信耗费、Agent在交互网络中的位置和彼此之间的交互距离, 因此, 任务分配实现难度相对较大\多Agent系统\Networked Multiagent Systems\NMAS
