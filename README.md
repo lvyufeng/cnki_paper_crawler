@@ -6,3 +6,5 @@
 CNKI由于版权限制，开放部分仅为摘要和作者信息，全文HTML需要高校购买服务。
 
 本项目仅为研究使用，若有侵权，请联系。
+
+爬虫部署于 [Herokuapp](http://cqu-crawler.herokuapp.com/), 使用[scrapydweb](https://github.com/my8100/scrapydweb)项目框架，特此感谢。
