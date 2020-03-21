@@ -1,3 +1,0 @@
-针对电力系统在视频监视方面的无人值守需求, 提出了一种基于图像处理技术的视频智能分析系统研究和实现方案\视频监视\基于图像处理技术的视频智能分析\电力系统
-分析了近年来轨迹压缩领域的研究进展, 针对现有研究工作的不足, 提出了一种路网感知的在线轨迹压缩方法, 包括针对轨迹压缩的距离有界的隐马尔可夫地图匹配算法和误差有界的高效轨迹压缩算法等, 实现了该方法的原型系统ROADER (road-network aware and error-bounded trajectory compression) \轨迹压缩领域\误差有界的高效轨迹压缩算法\road-network aware and error-bounded trajectory compression
-数字重建放射影像算法 (DRR) 是TPS中的关键算法, 广泛用于实现射野验证、病人摆位等\病人摆位\DRR\TPS

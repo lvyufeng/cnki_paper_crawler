@@ -1,1 +1,0 @@
-为验证PUL的有效性, 在遥感影像进行分类实验, 并与单类支持向量机 (OC-SVM) 、高斯数据描述 (GDD) 、支持向量数据描述 (SVDD) 、有偏SVM (Biased SVM) 以及多类SVM分类对比, 实验结果表明PUL提高了分类效果, 优于上述单类分类方法及多类SVM方法\单类支持向量机\OC-SVM\高斯数据描述\GDD\支持向量数据描述\SVDD\有偏SVM\Biased SVM\多类SVM分类

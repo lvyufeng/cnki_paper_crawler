@@ -1,1 +1,0 @@
-实验结果表明, LPF-ICP方法成功地从Rensselaer数据组中的所有22对挑战性图对提取了可靠的LPF种子, 并顺利实现了全图配准, 而GDB-ICP方法则只完成了其中的19对, 从而证实了LPF-ICP方法的有效性\全图配准\Rensselaer数据组\有效性\GDB-ICP方法
