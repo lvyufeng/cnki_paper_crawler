@@ -7,4 +7,22 @@ CNKI由于版权限制，开放部分仅为摘要和作者信息，全文HTML需
 
 本项目仅为研究使用，若有侵权，请联系。
 
+---
+## 爬取刊物
+
+1. JSJY: 计算机应用
+1. JSGG: 计算机工程与应用
+1. WJFZ: 计算机技术与发展
+1. JSJA: 计算机科学
+1. KXTS: 计算机科学与探索
+1. SJSJ: 计算机工程与设计
+1. RJXB: 软件学报
+1. JFYZ: 计算机研究与发展
+1. JSJF: 计算机辅助设计与图形学学报
+1. JSJX: 计算机学报
+1. XXWX: 小型微型计算机系统
+1. JSJK: 计算机工程与科学
+
+---
+
 爬虫部署于 [Herokuapp](http://cqu-crawler.herokuapp.com/), 使用[scrapydweb](https://github.com/my8100/scrapydweb)项目框架，特此感谢。
